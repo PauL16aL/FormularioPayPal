@@ -1,8 +1,10 @@
 # FormularioPayPal
+
+Se ha realizado un formulario de pagos de PAYPAL
+Se utilizo los componentes que nos ofrece PayPal Developer Dashboard (https://developer.paypal.com/dashboard/)
 ### Formulario PAYPAL
  
 ![image](https://github.com/PauL16aL/FormularioPayPal/assets/125236522/0e29fa9e-535d-4394-a926-43ed64a8f643)
-
 
 
 ### Cuenta PAYPAL
